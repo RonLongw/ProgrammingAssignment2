@@ -1,5 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix is a function which produces a special 
+## matrix for use by the function cacheSolve. cacheSolve 
+## takes a matrix and checks to see if its inverse has
+## been calculated.  If it has it returns the inverse
+## otherwise it calculates the inverse caches it and then 
+## returns the inverse
 
 ## The function makeCacheMatrix makes a special matrix
 ## which is a list containing a function to 
